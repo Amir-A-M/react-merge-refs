@@ -13,7 +13,7 @@
       "import": "./dist/index.mjs",
       "default": "./dist/index.mjs"
     }
-  }
+  },
   "keywords": [
     "react",
     "utility",
